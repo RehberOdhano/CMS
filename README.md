@@ -1,6 +1,5 @@
 # CMS
 
-##
 Cinema Ticket Management System is basically a desktop application, which manages the data of customers, movies, and tickets at the backend. 
 This project is implemented using JAVA programming language and its built-in library JAVA Swing and the communication between the client 
 and server is done using the TCP protocol. In this project, there are several useful functionalities such as adding movie’s data, 
